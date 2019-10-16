@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="fiorst">Fist quarter</string>
+    <string name="first_quarter">First Quarter</string>
+    <string name="second_quarter">Second Quarter</string>
+    <string name="jun">JUN</string>
+    <string name="may">MAY</string>
+    <string name="apr">APR</string>
+    <string name="mar">MAR</string>
+    <string name="feb">FEB</string>
+    <string name="todo">TODO</string>
+
+    <string name="jan">JAN</string>
 </resources>
